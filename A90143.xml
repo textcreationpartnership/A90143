@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bradshaws ultimum vale, being the last words that are ever intended to be spoke of him. As they were delivered in a sermon preach'd at his interrment. By J.O. D.D. time-server general of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90143</idno>
+            <idno type="STC">Wing O3</idno>
+            <idno type="STC">Thomason E1011_1</idno>
+            <idno type="STC">ESTC R203078</idno>
+            <idno type="EEBO-CITATION">99863162</idno>
+            <idno type="PROQUEST">99863162</idno>
+            <idno type="VID">115346</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90143)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115346)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1011[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bradshaws ultimum vale, being the last words that are ever intended to be spoke of him. As they were delivered in a sermon preach'd at his interrment. By J.O. D.D. time-server general of England.</title>
+                  <author>Owen, John, 1616-1683, attributed name.</author>
+               </titleStmt>
+               <extent>15, [1] p. : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>Oxon [i.e. London :</pubPlace>
+                  <date>printed in the year, 1660 [i.e. 1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"J.O." is apparently intended to represent John Owen.</note>
+                  <note>A satire.</note>
+                  <note>The imprint is false; actually printed in London (Madan).</note>
+                  <note>Annotation on Thomason copy: "xber [i.e. December] 30. 1659"; the date has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bradshaw, John, 1602-1659 --  Humor --  Early works to 1800.</term>
+               <term>Religious satire, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115346:1" rendition="simple:additions"/>
+            <p>BRADSHAWS <hi>
+                  <g ref="char:V">Ʋ</g>LTIM<g ref="char:V">Ʋ</g>M <g ref="char:V">Ʋ</g>ALE,</hi> Being the Laſt WORDS That are ever intended to be Spoke of HIM.</p>
+            <p>As they were delivered in a SERMON Preach'd at his Interrment.</p>
+            <p>
+               <hi>By</hi> J. O. D. D. <hi>Time-Server general of</hi> England.</p>
+            <p>
+               <hi>OXON,</hi> Printed in the Year, 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:115346:2"/>
+            <pb n="3" facs="tcp:115346:2"/>
+            <head>Hearken unto the words of my Text, as you ſhall find them written round about the Dyall of <hi>Pancridge</hi> Church.</head>
+            <figure>
+               <head>VVEE M<g ref="char:V">Ʋ</g>ST</head>
+               <p>SPEND WELL THY TIME</p>
+               <p>FLIE SWIFTE FROM SINNE</p>
+            </figure>
+            <p>BEloved, they ſay, yea the Heathen ſay, that Round<g ref="char:EOLhyphen"/>heads will not Steal, but they will Lye abominably. I on feſſe my ſelf to be a Round-head, and the Son of a Round-head (of elſe what ſhould I do here) and yet contrary
+<pb n="4" facs="tcp:115346:3"/>
+to the reproaches of the ungodly, I believe I have now ſpoken a truth, which neither you will, nor they dare de<g ref="char:EOLhyphen"/>ny.</p>
+            <p>The words conſiſt of ſeaven letters <hi>W: e: e: M: u: s: t,</hi> and a certain thing called an Hieroglyphic. What that is, I ſhall tell yee by and by, if I can, though beloved I muſt needs ſay unto yee, 'tis a very hard word. But let us begin firſt with the Letters, for give me leave to tell yee, there be many myſteries hid under other Letters and Figures, as well as under <hi>S, p, q, R,</hi> or 666, as, give me but a little leave, and Ile ſhow you: as for example <hi>W: e: e: M: u: s: t.</hi> Here <hi>W;</hi> is as it were a diſcovery of the natures of a right Congregational Man; as if I ſhould ſpeak to any of yee all here preſent who have been famous in your Generations, and ſay <hi>W. S:— W. V:—, W. N:—;</hi> what were this, but as if I ſhould ſay, <hi>You Double or double hearted S:—, You Double or dou<g ref="char:EOLhyphen"/>blehearted V:—, You Double or double hearted N:—.</hi> Then in the ſecond place, being ſuch, and lyable alſo to death, it denotes unto <hi>you, and me,</hi> and <hi>all of us</hi> (for I ſee never a Barrel better Herring) that as the ſtroaks of the <hi>W:</hi> will never meet at the top, but are eaſily joyned at the bot<g ref="char:EOLhyphen"/>tom: ſo none of us here congregated together are likely to meet above, that is to ſay, in Heaven, but muſt be joyned and riveted together in the lower <hi>Parts</hi> of the Earth. <hi>Benlowes</hi> ſacred <hi>Fancies, c. 2. v. 5.</hi> The ſame learned Author affirms that, and reſembles a man who being very melancholy, hangs down his Head in his Breaſt, which is now our con<g ref="char:EOLhyphen"/>dition; for though we have no reaſon to be ſad for the Rings we have got, yet have we great cauſe to <hi>hang down</hi> our Heads and Mourn for the loſſe of our Brother. Now there is not one <hi>e:</hi> but two <hi>ee's:</hi> Mark how pat this falls out, as much as to ſay, <hi>Wee</hi> are in little <hi>eaſe.</hi> Judge yee now if this be not juſt to a <hi>Cow's Thumb,</hi> for who among us can ſay now he is at <hi>eaſe?</hi> No! for <hi>Wee</hi> are all in little <hi>eaſe;</hi> Partly for the loſſe of our Friend here, partly for the loſſe of our Honours and Goſpel enjoyments which I fear is nigh at hand, for that our Foes do multiply, and there is none to ſave us. Dr. <hi>H—,</hi> Beloved, a Brother of ours, hath ſpoken and made publick in his Fancies upon the <hi>Revelation</hi> and <hi>Daniel,</hi>
+               <pb n="5" facs="tcp:115346:3"/>
+many pretty <hi>Knick-knacks</hi> and <hi>Whimſies</hi> of his own, and tru<g ref="char:EOLhyphen"/>ly very applicable to the words, but if he could fetch ſuch a myſtery as this out of two <hi>ee's,</hi> Ile give him my Mother for a Maid. The ſubſequent Letters are <hi>M: u: s: t,</hi> which be<g ref="char:EOLhyphen"/>ing put together compoſeth or compileth the word <hi>Must;</hi> ſome ſay this word is a royal word, becauſe of the Proverb that ſaith, <hi>Muſt is for the King.</hi> Truly Beloved I could wiſh it were only for the King, but here's the miſchief on't; and indeed the Devil ought u<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a ſpite, for he made us little Kings and Princes alſo every one in his turn, on purpoſe to put his <hi>Muſt</hi> upon us too. But this word <hi>Muſt</hi> hath ſeveral ſignifications, Firſtly and firſt of all, it ſignifies a term of force or violence, as you ſhall find it in the ſecond Chapter of the Engliſh <hi>Proverbs, v. 3. Needs Must he goe whom the De<g ref="char:EOLhyphen"/>vil drives.</hi> But our Brother <hi>Cook</hi> at the <hi>Bridge foot,</hi> who dreſt many a good Dinner for the upright, took it in another ſenſe: And ſo I can aſſure you, that Rheniſh Wine upon the <hi>Must</hi> is very ſweet, but <hi>Death</hi> upon the <hi>Muſt</hi> is very ſowre. The next thing that I ſhall explain to you, is the <hi>Hieroglyphic,</hi> by which we have expreſt the two Monoſylla<g ref="char:EOLhyphen"/>bles <hi>Dye all.</hi> To do this I ſhall tell you negatively firſt what it is not, and ſecondly affirmatively what it is. Give me leave then in the firſt place to tell yee that a <hi>Hieroglyphic</hi> is no <hi>Sturgeon;</hi> for though a <hi>Sturgeon</hi> be good meat, yet it is not Hieroglyphically ſo. I will not deny but that a <hi>Sturgeon</hi> may be a <hi>Hieroglyphic;</hi> yet this on the other ſide I dare af<g ref="char:EOLhyphen"/>firm, that though every <hi>Sturgeon</hi> may be a <hi>Hieroglyphic,</hi> yet every <hi>Hieroglyphic</hi> is not a <hi>Sturgeon.</hi> 'Tis true many of our Antient and Modern Prophets, have hid the myſteries of their myſtical ſayings, under the ſhapes of ſeveral Beaſts; but this argues not that a <hi>Sturgeon</hi> ſhould in this place be counted an <hi>Hieroglyphic.</hi> For though they make many of their Monſters to come out of the Sea, yet they give unto none of them the ſhape of Fiſh; and indeed it is thought, that ever ſince <hi>Jonas</hi> was in the fiſhes belly, none of thoſe kind of people cared that Fiſh ſhould come into their bellies. Yet I could wiſh our deceaſed Preſident were now in a Fiſhes belly, becauſe of the report of Men, who ſay, that he is in a place where there is ſo much want of water. But
+<pb n="6" facs="tcp:115346:4"/>
+ſome will object and ſay, what think yee of <hi>Mermaids?</hi> To which I anſwer, that <hi>Virgil</hi> and <hi>Homer</hi> were in their Liquor, when they found out that watery and fluid invention; So that a <hi>Mermaid</hi> can be no <hi>Hieroglyphic</hi> neither. 'Tis true, a Maid joyned with a Man, or with a Maſtiff, may be a <hi>Hieroglyphic,</hi> as our Brother <hi>Benlowes</hi> obſerves in his com<g ref="char:EOLhyphen"/>ment upon <hi>Alciates</hi> Emblems; but I hope Maids have more wit, when there are ſuch Creatures upon Land, than to run into the Sea to look after <hi>Tritons.</hi> Neither can a Bag Pudding be in this place counted an <hi>Hieroglyphic;</hi> for that a Pudding hath two ends, but all thoſe that dye have but one end; and ſome ſay, when they are dead they have no end; but as to that I ſhall ſay little at preſent; <hi>Abel</hi> beſt knows it, who was the firſt man that ever dy'd in this World. But now to let yee know what this thing is we have ſo much talk'd off, an <hi>Hieroglyphic,</hi> being truly defin'd, is an <hi>Egyptian Trimtram;</hi> But ſome will ſay, what? doe you make uſe of <hi>Fool's Baubles,</hi> and <hi>Trimtrams,</hi> to expreſſe the death of ſo worthy a Patriot as here lyes before us? To this I an<g ref="char:EOLhyphen"/>ſwer, that I wonder at yee my beloved; for would you have me Preach any other ſort of Sermon at his Funeral, than he was wont to hear while he liv'd? where was there ſuch a <hi>Poltron</hi> as our Brother <hi>Foxley,</hi> who ſpoke <hi>Bulls</hi> more reverently in the Pulpit? or was more gravely impertinent in his <hi>Homilies?</hi> Yet was he Chaplain to our deceaſed Pa<g ref="char:EOLhyphen"/>triot, and he fed him with Mony, and fat Veniſon. But why have we made uſe of a Sundyall? why? becauſe it is the only thing which diſcovers the Thieveries of that Arch Pilferer old Time: You'l ſay, I might as well have made uſe of thoſe things, with which the young Striplings play for Sawcers in <hi>Bartholomew</hi> Fair: but I deny that; for though they ſerve to paſſe the time away, yet they are no Sundyals. Now this <hi>Time</hi> my Beloved, was one of the arranteſt Thieves in the World; He was Great grandfather to <hi>Robin-Hood,</hi> that Robb'd in <hi>Yorkſhire,</hi> and his Mother was Siſter to <hi>Wood</hi> of <hi>Kent,</hi> For he was as great a Glutton, as a Thief; and he Robb'd to Eat, and Eat that he might Rob. And therefore our Aunceſtors knowing how great a Thief he was, tranſlated the Latin word <hi>Tempus,</hi> and called it Time, place<g ref="char:EOLhyphen"/>ing
+<pb n="7" facs="tcp:115346:4"/>
+him upon the Beams of Sundyals, with a great Si<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h in his hand; judge yee what great gobbets he puts in his mouth, and what a Stomach he hath, by the weapon with which he uſes to cut his meat. Now this <hi>Time</hi> being made a <hi>Demon</hi> or <hi>Semigod,</hi> even as our fore Fathers deifyed Wine, and call'd it <hi>Bacchus,</hi> by reaſon of its great power over Mor<g ref="char:EOLhyphen"/>tals, will not yet leave his Theiving, but ſteals our Years, our Days, Months, and Minutes, nay our very Lives from us: And more than this, if the Sexton be not too nimble for him, makes no Conſcience to ſteal our winding Sheets from us, as we lye helpleſſe and ſuccourleſſe in our Graves. In <hi>Law Offices,</hi> the Rats and He feed together upon old Parchments; ſo that the Lawyers are fain to make their Deeds, and Leaſes, of no uſe after ſo many years, leſt he ſhould eat away the Evidences of Mens Inheritances. <hi>Ecce venio ut Fur,</hi> ſaith the Dyal of <hi>Cannon Street</hi> Church. Sure<g ref="char:EOLhyphen"/>ly he was a VViſe Man, that made that Dyall, and under<g ref="char:EOLhyphen"/>ſtood Latin; for never was a better Character given of <hi>Time</hi> than this. But let him go like a Thief as he is, and let us ſee what we have next to inſiſt upon.</p>
+            <p>You find by what we have ſaid already, a true explana<g ref="char:EOLhyphen"/>tion of the Letters, and <hi>Hieroglyphic</hi> of this Text. Now the Letters and <hi>Hieroglyphic</hi> being put together, do immediatly ſpawn or procreate this ſenſe or meaning, <hi>We Muſt Dye all.</hi> Here we are to note the action, and univerſality of the acti<g ref="char:EOLhyphen"/>on; The action is <hi>Dying,</hi> the univerſality of the action, <hi>Wee Muſt Dye all.</hi> VVell then, <hi>Wee Muſt Dye all;</hi> But what? muſt we Dye all after one faſhion? In other things there is variety; as of VVomen, there are the Black, the Brown, the Fair. Of Drink there is variety, as Ale, Beer, Cider, Sack, Claret, <hi>&amp;c.</hi> There are alſo ſeveral ſorts of Meat, as Fleſh, Fowl; And of theſe alſo, there are various kinds, whereby the Palat need not to be nauſeated alwayes with one and the ſame thing. And is there but one way of Dy<g ref="char:EOLhyphen"/>ing? Beloved yee need not fear: There are as many wayes of Dying, as of Eating and Drinking. Some Men Dye for Love, as you may read in the firſt Book of <hi>Claudian Gruget,</hi> or the <hi>Cronicles of Queen Marget.</hi> Beloved, I ſhall read unto you the Text it ſelf; where you ſhall find the Story of a
+<pb n="8" facs="tcp:115346:5"/>
+certain young man who this way loſt his Life; It is ſaid o him,</p>
+            <p>
+               <hi>V. 1. c.</hi> 10. There was a certain young man who loved a certain Lady, and his Love was grounded on no other end, but to Love her with all his power as perfectly as he could.</p>
+            <p>
+               <hi>V.</hi> 2. But this Lady, he being not a match ſufficient for her, was by the urgency of her Friends, cauſ'd and forc'd to marry another Gentleman.</p>
+            <p>
+               <hi>V.</hi> 3. Therefore he fell Sick, and his ſtrength failed him, ſo that he was forc'd to keep his bed.</p>
+            <p>
+               <hi>V.</hi> 4. Nevertheleſſe the Daughter and the Mother, have<g ref="char:EOLhyphen"/>ing ſome compaſſion on him, came to viſit the Gentleman, whom they found near his end;</p>
+            <p>
+               <hi>V.</hi> 5. But then being ready to deſcend unto the ſleep of Death, and beholding her whom his Heart loved, he found himſelf ſo fortified, that he did ariſe up in his bed,</p>
+            <p>
+               <hi>V.</hi> 6. And ſaid unto the Mother of the young Lady, I be<g ref="char:EOLhyphen"/>ſeech you to give her into my Arms, and command her to Embrace and Kiſſe me.</p>
+            <p>
+               <hi>V.</hi> 7. Then Embracing the cauſe of his death, and Kiſſing her with his pale and cold Lips, he held her with ſo much vehemence, that his weak Heart could not endure the ſtrength of his Love.</p>
+            <p>
+               <hi>V.</hi> 8. Therefore the faculties of Life abandoining him, the ſeat of his Soul failed, and ſhe fled to her <hi>Diſpoſer.</hi>
+            </p>
+            <p>Thus you ſee the Example of one way of Dying; But what ſays the Learned <hi>Hircan</hi> in his Comment upon this place. <hi>This,</hi> ſaith he, <hi>was the veryeſt Fool that ever I heard ſpeak; for is it likely or reaſonable that we ſhould Dye for Women who are made for us, and be afraid to ask them what they are enjoyn'd to give us?</hi>
+            </p>
+            <p>Now I ſpeak not this for my ſelf, nor for any man here that is married, for I have enough of a VVoman; or rather more than will ſerve my turn; but to ſhew you that there are <hi>more ways to the Wood than one.</hi> Truly Beloved, our dear and worthy Brother here lying before us, was not a little guilty of this vanity, which made him in hisyounger days quaff a health to his <hi>Miſtriſs</hi> in his own blood. I ſhould have blam'd him for it, but that it made him known, and ſhew'd him fit for
+<pb n="9" facs="tcp:115346:5"/>
+the truſt repoſed in him, for he that was ſo laviſh of his own blood, could never be chary of another mans. But there are other ways of leaving the World, and I believe as many poſtures there are of dying, as our Brother <hi>Aretine</hi> hath delivered poſtures of <hi>Copulation.</hi> Let us reckon; One I have told yee already.</p>
+            <p>The ſecond is, when a man going to bed takes a good Doſe of <hi>Opium,</hi> and ſleeps away his life: and this is called the <hi>Syndercomb.</hi>
+            </p>
+            <p>The third is, the Turks way of ſtrangling, and borrows its name from a ſtuff in <hi>Pater-noſter-ro:</hi> and is called <hi>Lute<g ref="char:EOLhyphen"/>ſtring.</hi>
+            </p>
+            <p>The fourth is, that poſture which <hi>Derick</hi> moſt common<g ref="char:EOLhyphen"/>ly uſes: and is called <hi>Nooſing.</hi>
+            </p>
+            <p>The fifth is, burning to death: and is called the <hi>Witches Farewell.</hi>
+            </p>
+            <p>The ſixth is, breaking on the wheel: and is called St. <hi>Ka<g ref="char:EOLhyphen"/>therines Legacy.</hi>
+            </p>
+            <p>The ſeventh is, when a man waſted with a Diſeaſe lyes upon his back, and gives up the Ghoſt: and is called the <hi>Cuſtome of Women.</hi>
+            </p>
+            <p>The eighth differs little from the ſeventh, only that the man lyes on one ſide: and this is called <hi>King Arthurs way of dying.</hi>
+            </p>
+            <p>The ninth is, broyling to death: and is called St. <hi>Lawren<g ref="char:EOLhyphen"/>ces March.</hi>
+            </p>
+            <p>The tenth is, drowning: and this is called <hi>Neptunes Ex<g ref="char:EOLhyphen"/>ciſe.</hi>
+            </p>
+            <p>The eleventh is, beheading: and is called <hi>Bradſhaws De<g ref="char:EOLhyphen"/>light.</hi>
+            </p>
+            <p>The twelfth and laſt which I ſhall now number up, re<g ref="char:EOLhyphen"/>ferring you for the reſt to the Pictures of the ten Perſecuti<g ref="char:EOLhyphen"/>ons, and <hi>Sennertus's</hi> work, is our deceaſed Brorhers way of dying: and is called the <hi>Agues Triumph.</hi> Whereby you may ſee that a Souls Houſe, and a Mans Houſe are not alike; for they ſay of <hi>Building,</hi> that a trembling Houſe ſtands faſteſt; but a Soul loves not that her Manſion ſhould ſhake.</p>
+            <p>The Phyſicians ſay, becauſe they are not able to cure this Diſeaſe, that it is a certain Devil which poſſeſſes a man. If
+<pb n="10" facs="tcp:115346:6"/>
+this be ſo, then certainly it was <hi>Belzebub</hi> himſelf poſſeſſed our <hi>dear Preſident;</hi> For he ſhook him worſe than he ſhook the Protectors Trees, and never left ſhaking him, till he had ſhaken him into his Grave. Truly Beloved, 'tis a ſad thing when the Devil comes to <hi>Winnow</hi> a mans Soul out of his Bo<g ref="char:EOLhyphen"/>dy. But to ſay truth, what had he to do, to live any longer, he had done his great work, neither was there any likely<g ref="char:EOLhyphen"/>hood that he ſhould have any more, by reaſon that the Na<g ref="char:EOLhyphen"/>tion was ſo generally inclin'd for a Common-Wealth; He knew, for ordinary Delinquents, and a Common <hi>High Court of Juſtice,</hi> the Lord <hi>Liſle</hi> could ſerve as well as he; He ſaw that the <hi>Rump</hi> ſtunk in the Noſtrils of the Nation, and it grieved him to ſee them ſo deſpis'd by the people. He had had his reward in this World; and therefore thought 'twas time to get his reward in the other. What that is, we cannot tell: his Friends hope the beſt; his Enemies hope the worſt. However, to give yee ſome ſatisfaction, we ſhall a little dive into the Actions of his life, and ſee if they de<g ref="char:EOLhyphen"/>ſerve that puniſhment, which his Enemies would inflict up<g ref="char:EOLhyphen"/>on him. I confeſſe we have a difficult task to undergoe, to Cloth <hi>Virtue</hi> in the Habit of <hi>Vice,</hi> and to trick up <hi>Vice</hi> in the Habit of <hi>Virtue.</hi> Nevertheleſſe wee muſt doe ſomething in the diſcharge of a good Conſcience; for elſe how can I be ſaid to have merited my Ring, and my <hi>Five</hi> pieces; perhaps it may be <hi>Ten,</hi> which is a Sum conſiderable. Truly wee Miniſters love Mony, 'tis the main thing we <hi>Ball</hi> for; and I think he's a Fool that does not. You know <hi>'tis Mony that makes the Mare to goe: 'tis Mony that makes the Pot boyl.</hi> Now good victuals my Beloved, are highly reverenc'd and eſteem'd among us <hi>Parſons;</hi> 'tis that which encloſes our <hi>Kidneys,</hi> and lines our <hi>Midriffs</hi> with fat. They talk of the <hi>Food of the Soul;</hi> but I beleive that if there were no other Food, we might ſtarve for all that. Therefore ſaith the fa<g ref="char:EOLhyphen"/>mous father <hi>Binet, c. 31. v. 130. By Hook or by Crook it mat<g ref="char:EOLhyphen"/>ters not whether, ſo we can but gain Riches,</hi> which are indeed the <hi>Nerves</hi> and <hi>Sinews</hi> of a Mans life. Thus much by way of <hi>pickeering</hi> from our Text, a thing uſual among us <hi>modern Divines.</hi> Now let us begin to juſtifie our deceaſed <hi>Preſident.</hi> You muſt know then, that once upon a time <hi>Eſcobar</hi> and
+<pb n="11" facs="tcp:115346:6"/>
+               <hi>Lopez</hi> meeting together, they fell into a diſpute con<g ref="char:EOLhyphen"/>cerning the Actions of a Mans life; But me thinks I hear Somebody, pulling me by the ſleeve, ſay unto me, who is that <hi>Eſcobar</hi> and <hi>Lopez</hi> you talk o<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>? why my Beloved this <hi>Eſcobar</hi> was great Grand-child to the <hi>Pin<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>r of Wakefield,</hi> who comming of the race of the <hi>Valiant,</hi> became a very ſtrong man at an argument; Now <hi>Lopez</hi> was an <hi>Eaſt-Indian</hi> Divine, and he wore a Jerkin made of <hi>Ostrich</hi> Feathers; his Shooes were made of an <hi>Elephants Hoof,</hi> and upon his Head he wore a <hi>Fools Cap.</hi> Then ſaid <hi>Lopez</hi> unto <hi>Eſcobar, May a Man doe Evil, that Good may come thereof?</hi> and <hi>Eſcobar</hi> anſwered and ſaid, <hi>Follow the Preſtdent that lives in our days; Don Juan de S<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>,</hi> the <hi>Portugal Embaſſadors</hi> Brother, proves this moſt ex<g ref="char:EOLhyphen"/>actly from the Doctrine of <hi>Probability.</hi> For ſaith he, <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 7. <hi>v. 3. A Man may doe that, which he conceives lawful accor<g ref="char:EOLhyphen"/>ding to a probable opinion, though the contrary be in reality the more honeſt.</hi> And <hi>Vaſques</hi> ſaith, in his book of <hi>Sanctifi'd Experiences,</hi> that in caſes of Mo<g ref="char:EOLhyphen"/>rality, <hi>a man ought not to be guided by the antient Divines, but by the modern Caſuists;</hi> Of this opinion alſo, was our dear Brother <hi>Julian</hi> the <hi>Apoſtate.</hi> Now you will ſay that our deceaſed Preſident was <hi>Ambitious:</hi> I grant it; but what then? but hear what the famous <hi>Eſcobar</hi> ſaith; <hi>Ambition, which is an immoderate deſire of greatneſſe and dignity, is of it ſelf a</hi> venial Sin; <hi>
+                  <gap reason="illegible: faint" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> when a man covets that greatneſſe to prejudice the</hi> State, <hi>the external circumſtances are that which make it</hi> Mortal; But our Preſident exercis'd his Ambition for the good of the State. He prerended Religion, the deſtructi<g ref="char:EOLhyphen"/>on of Tyranny, and at laſt the ſetting up of the Good Old Cauſe: And therefore yee may read, in our de<gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Brother <hi>Catilines Remains,</hi> how that he diſturbed <gap reason="illegible: faint" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Country, for that he was greatly in Debt, and had no other way to get mony to be honeſt to his <hi>C<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</hi> But me thinks I hear the Cavaleers crying out with o<g ref="char:EOLhyphen"/>pen
+<pb n="12" facs="tcp:115346:7"/>
+mouth, how he killed the King. VVhy what if he did? did not our dear Brother <hi>Ravillac</hi> kill <hi>Harry</hi> the <hi>Fourth?</hi> would not our Brother <hi>Faux</hi> have blown up the <hi>King</hi> and all his <hi>Peers?</hi> did not our Siſter <hi>Tomyris</hi> cut off <hi>King Cyru's</hi> Head? did not our An<g ref="char:EOLhyphen"/>ceſtors run a hot ſpit into the Fundament of King <hi>Ed<g ref="char:EOLhyphen"/>ward.</hi> Therefore ſaith our Brother <hi>Syndercomb,</hi> It is as lawful for to kill a Tyrant, as it is to drink <hi>Coffee.</hi> And the antient Greeks and Romans, gave rewards to thoſe that were moſt ſwift in the execution of ſuch an enterpriſe. <hi>Machiavel</hi> in his Comment upon the works of <hi>Heliogabalus,</hi> ſaith, <hi>that it is lawful to kill a Man for ſix or ſeven Duckets;</hi> and our holy Bro<g ref="char:EOLhyphen"/>ther <hi>Molina</hi> the Jeſuite aſſures us, that regularly a Man may kill another lawfully for the value of a Crown; and in this opinion conſents with him <hi>Domitian</hi> the <hi>Fly-killer</hi> and the holy <hi>Nero:</hi> Alſo further ſaith, <hi>that it is lawful for one Man to kill another for an Ap<g ref="char:EOLhyphen"/>ple.</hi> Now if this be true, that a Man may be killed for ſix or ſeven Duckets, or for ſuch a ſlight thing as an Apple; then certainly might our Preſident judge a Man to Death for my Lord <hi>Cottingtons</hi> Eſtate. Our Preſident was like <hi>Neceſsity,</hi> for he had <hi>no Law;</hi> If then he had <hi>no Law,</hi> could yee blame him for not doing that which was agreeable to <hi>Law?</hi> Thus my beloved you ſee it prov'd out of the Labours of the moſt authentick Divines, that he was not ſo bad as the World took him to be; But he is gone, and we ſtay here behind to wear Rings for his ſake. <hi>Truly</hi> I would wiſh, if I might reap the ſame bene<g ref="char:EOLhyphen"/>fit, that ſuch a Preſident might dye every day: For Ile warrant yee our Rings are worth eight and twenty ſhillings a peice, now twenty eight ſhil<g ref="char:EOLhyphen"/>lings a day, is five hundred and eleven pounds <hi>per annum;</hi> Ile promiſe yee a good younger Brothers Eſtate, and I believe the time has been, when the beſt
+<pb n="13" facs="tcp:115346:7"/>
+of yee all here preſent, hath been contented with farr leſſe. I am ſure the time was when our Be<g ref="char:EOLhyphen"/>loved Preſident had not ſo much; but thanks be to God, and his own impudent face, his conditi<g ref="char:EOLhyphen"/>on was well amended before he departed this tranſitory World. Now they ſay that Mr. <hi>Ty<g ref="char:EOLhyphen"/>burn</hi> mourned alſo for him, and was himſelf at the charges of a black Cloak. Truly I wonder I do not ſee him here; I know no reaſon why he might not have come along, having three Leggs, as well as we go along that have but two. But me thinks I hear you enquiring of me whither he is gone; why truly for my part, I cannot tell. Now What are you the better for asking? His <hi>Friends</hi> ſay he is in <hi>Heaven,</hi> but his <hi>Foes</hi> ſay he is in Hell; now of theſe two opinions chooſe you which you will believe. If he be in Hea<g ref="char:EOLhyphen"/>ven, 'tis well, and if he be in Hell, 'tis well too I think, eſpecially if he had the wit to car<g ref="char:EOLhyphen"/>ry his Ague along with him; for Agues love warmth. Had he but had the <hi>French Diſeaſe,</hi> it might then ſerve him inſtead of a hot-Houſe; I hope in God he is by this time turn'd into a <hi>Sala<g ref="char:EOLhyphen"/>lamander;</hi> for then I am ſure the Fire can do him no hurt. Truly I think 'tis the beſt place he could goe to; for they ſay there are three Judges or Lords Commiſſioners there. Now if there ſhould happen to come a change there, as perhaps <hi>Noll</hi> and he may bring it to paſſe, if they will lay their Noddles together, why then 'tis but putting out them, and there's a place for him, which he may keep to himſelf till <hi>Liſle</hi> and <hi>Keeble</hi> can come to aſ<g ref="char:EOLhyphen"/>ſiſt him. Doubtleſſe this was his deſign when he dy'd, which was the reaſon he would have carried the <hi>Great Seal</hi> along with him. I know not why
+<pb n="14" facs="tcp:115346:8"/>
+ſuch a thing may not be doue, for the Devil has been dealt withall before now. St. <hi>Dunſtan</hi> you know led him up and down by the Noſe with a pair of Tongues; and <hi>Cook Ruffian</hi> ſcalded him in his Feathers, and wee ſee dayly as great alterati<g ref="char:EOLhyphen"/>ons here among us and as unlikely: therefore let us wonder at nothing, but wait with patience. This I will ſay for him, that he was a good Houſe<g ref="char:EOLhyphen"/>keeper, and liberal of his dyet, as our Brother <hi>N</hi>—well can tell, and our Brother <hi>Foxley</hi> alſo had dayly experience thereof; For he fed him till his Ears dript again, and taught him to live in another mans Houſe and pay no rent, juſt as he himſelf did.</p>
+            <p>As for his Conſcience, they ſay it was as large as one of my Lord <hi>Desboroughs</hi> Sacks; and tru<g ref="char:EOLhyphen"/>ly if it were ſo, it was as large as any reaſona<g ref="char:EOLhyphen"/>ble Man need deſire.</p>
+            <p>As for his Religion, ſome ſay he was a Turk, but I hardly believe it, becauſe that Religion is ſolely compoſed for a Monarchical Government. Neither was he a Jew, for they cry'd out for a King. Therefore doubtleſſe he was a Chriſtian, but what ſort of Chriſtian we know not; Some ſay he was a Diſciple of <hi>Caeſar Borgia,</hi> which is very pro<g ref="char:EOLhyphen"/>bable. Truly 'tis well he was of any Religion, for there are abundance of Atheiſts in theſe times.</p>
+            <p>But he is gone; farewell Hee: for I cannot help it, nor all the Phyſicians in <hi>England</hi> could not help it. Thus you ſee Protectors dye, Preſidents dye, yea and the great Whale is dead, though 'tis no miracle, for according to the words of my Text, <hi>We muſt dye all.</hi>
+            </p>
+            <p>
+               <pb n="15" facs="tcp:115346:8"/>
+Is it ſo then that <hi>Wee muſt Dye all,</hi> then let us live as long as we can, and enjoy the Creature while we may: and when our time is come, let us, becauſe we cannot help it, bequeath our bodies to the Earth, and our Souls to him that gave them: I know no other remedy; 'tis <hi>Hobſons</hi> choice; And ſo much for this time.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
